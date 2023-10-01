@@ -5,7 +5,7 @@
 <h1>osTicket - Prerequisites</h1>
 This tutorial is a continuation of the installation of osTicket which is linked below if you have not completed it yet.</p>
 
-- [osTicket: Prerequisites and Installation](https://github.com/bvongpradith/osticket-prereqs)
+- [osTicket: Prerequisites and Installation](https://github.com/BroderickSession/osticket-prereqs)
 
 <h2>Environments and Technologies Used in Tutorial</h2>
 
